@@ -1,0 +1,2 @@
+# Optimum
+تدعم مكتبة Optimum [الكمية](https://huggingface.co/docs/optimum/index) لشركة Intel و Furiosa و ONNX Runtime و GPTQ ووظائف الكم في PyTorch من المستوى الأدنى. ضع في اعتبارك استخدام Optimum للتحديد الكمي إذا كنت تستخدم أجهزة محسّنة ومحددة مثل معالجات Intel أو Furiosa NPUs أو مسرع نموذج مثل ONNX Runtime.
